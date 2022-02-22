@@ -1203,6 +1203,3 @@ MOL  3
  [ virtual_sites2 ]
 ;  ai    aj    ak  funct            c0            c1
     98      4     77    1 1.9425287356321839
-#ifdef POSRES
-#include "merged_posre.itp"
-#endif
