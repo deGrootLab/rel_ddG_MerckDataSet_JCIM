@@ -4,7 +4,7 @@ This is a collection of the input files for 8 protein-ligand systems (552 ligand
 cdk8, cmet, eg5, hif2a, pfkfb3, shp2, syk, tnks2.
 
 ## Citation: ##
-  submitted
+Vytautas Gapsys, David F. Hahn, Gary Tresadern, David L. Mobley, Markus Rampp, and Bert L. de Groot. Pre-Exascale Computing of Protein–Ligand Binding Free Energies with Open Source Software for Drug Design. J. Chem. Inf. Model. 2022. doi.org/10.1021/acs.jcim.1c01445
 
 ## Folder structure: ##
    ### For every protein-ligand dataset ###
